@@ -1,27 +1,27 @@
 export const projects = [
   {
-    title: "React Reserve",
+    title: "Space Trash",
     subtitle: "MERN Stack",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/balthazarbb/M1--Space-Trash.git",
   },
   {
-    title: "React Tracks",
+    title: "Green-Tower",
     subtitle: "React and Python",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://green-tower.herokuapp.com",
   },
   {
-    title: "DevChat",
+    title: "Match-Partner",
     subtitle: "React and Firebase",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    link: "http://matchpartner.herokuapp.com/",
   },
   {
     title: "Epic Todo App",
