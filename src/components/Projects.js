@@ -1,6 +1,6 @@
 import React from 'react'
 import { CodeIcon } from "@heroicons/react/solid"
-import { projects } from "../data"
+import { projects } from "../data";
 
 export default function Projects() {
     return (
@@ -18,7 +18,7 @@ export default function Projects() {
             fuga dolore.
           </p>
         </div>
-        <div className="flex flex-wrap -m-4">
+        <div className="flex flex-wrap -m-4 projects">
           {projects.map((project) => (
             <a
               href={project.link}
