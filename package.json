@@ -7,13 +7,15 @@
     "@heroicons/react": "^1.0.1",
     "@material-ui/core": "^4.12.1",
     "@material-ui/icons": "^4.11.2",
+    "@threespot/mailto": "^1.0.3",
     "mailto-link": "^2.0.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-email-share-link": "^1.0.3",
     "react-scripts": "^4.0.3",
     "react-social-icons": "^5.5.1",
-    "reactv16-mailto": "^0.4.4"
+    "reactv16-mailto": "^0.4.4",
+    "serve": "^12.0.0"
   },
   "scripts": {
     "start": "craco start",
