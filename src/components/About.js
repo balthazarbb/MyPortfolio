@@ -1,5 +1,4 @@
 import React from 'react'
-import mailtoLink from 'mailto-link'
 
 export default function About() {
     return (
@@ -35,7 +34,7 @@ export default function About() {
           <img
             className="object-cover object-center rounded"
             alt="hero"
-            src="./picture.png"
+            src="https://res.cloudinary.com/dg3rhmvdt/image/upload/v1626386169/picture_cxosyg.png"
           />
         </div>
       </div>
