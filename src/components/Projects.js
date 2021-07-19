@@ -13,7 +13,7 @@ export default function Projects() {
             Apps I've Built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Here is a showcase of some of the Project i work on.
+            Here is a showcase of some of the projects i worked on.
 
           </p>
         </div>

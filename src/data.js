@@ -11,7 +11,7 @@ export const projects = [
     title: "Green-Tower",
     subtitle: "JavaScript, Handlebars, Bootstrap, NodeJS, ExpressJS, CSS, HTML",
     description:
-      "Inspired and pair-programmed with my fellow teammate AnnaRICH",
+      "Inspired and pair-programmed with my amazing teammate Anna Tielke ",
     image: "./project-2.gif",
     link: "https://green-tower.herokuapp.com",
   },
@@ -19,7 +19,7 @@ export const projects = [
     title: "Match-Partner",
     subtitle: "JavaScript, React, MongoAtlas, MaterialUI, NPM",
     description:
-      "My final project from the Ironhack Bootcamp which i built on  my own",
+      "Final solo project from the Ironhack Bootcamp.",
     image: "./project-3.gif",
     link: "http://matchpartner.herokuapp.com/",
   },
